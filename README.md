@@ -1,6 +1,6 @@
-**Projeto de Análise e Visualização de dados - RobôCIn**
+**ANÁLISE DE DADOS DO INSTAGRAM - @robocinufpe**
 
-- Dashboard criado para analisar dados valiosos sobre as métrcias do instagram do RobôCIn. Para interagir com o dashboard e explorar os dados através dos filtros aplicados, acesse o arquivo pbix.
+- Dashboard criado para analisar dados valiosos sobre as métricas do instagram do RobôCIn. Para interagir com o dashboard e explorar os dados através dos filtros aplicados, acesse o arquivo pbix.
 
 **Ilustração estática do dashboard:**
 
