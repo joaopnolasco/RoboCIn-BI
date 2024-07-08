@@ -1,1 +1,1 @@
-![Uploading Captura de Tela 2024-07-08 às 19.08.40.png…]()
+Dashboard criado para analisar dados valiosos sobre as métrcias do instagram do RobôCIn.
